@@ -1,0 +1,12 @@
+name: GroupSystem
+main: de.finn.groupsystem.GroupSystem
+description: GroupSystem for PlayLegend Application
+version: 0.0.1
+authors: ["fiinnxd"]
+commands:
+  group:
+  doIHavePermission:
+    aliases: [dihp, doIHavePerm]
+  addInfoSign:
+  language:
+    aliases: [lang]
